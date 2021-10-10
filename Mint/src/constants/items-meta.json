@@ -1,0 +1,43 @@
+{
+    "name": "polarbear",
+    "description": "playful polars",
+    "image": "https://ipfs.io/ipfs/QmV1DUch15pcm3KE5SmAe8YCV6Scd7jGicAz82ZyU3vWmz/polarbear1.jpg",
+    "attributes": [
+        {
+            "trait_type": "Collection Name",
+            "value": "playfulpolars"
+        },
+        {
+            "trait_type": "Collection",
+            "value": "Playful Polars"
+        },
+        {
+            "trait_type": "Glasses",
+            "value": "nerdy"
+        },
+        {
+            "trait_type": "Hats",
+            "value": "white mohawk"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "closed"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "fish"
+        },
+        {
+            "trait_type": "Shirt",
+            "value": "inmate"
+        },
+        {
+            "trait_type": "Color",
+            "value": "#F6C3DB"
+        },
+        {
+            "trait_type": "Background",
+            "value": "#B5B3DA"
+        }
+    ]
+}
